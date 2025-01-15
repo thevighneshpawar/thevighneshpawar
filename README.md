@@ -15,8 +15,7 @@ Hi there! 👋 I'm Vighnesh<br>A final-year Computer Science Engineering student
 ---
 [![](https://visitcount.itsvg.in/api?id=thevighneshpawar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vighnesh004) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
